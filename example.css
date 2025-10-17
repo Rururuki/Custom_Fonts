@@ -1,8 +1,8 @@
 /* call font-face */
-@import url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@1412e022351a963c461016d9114a223bd14fd9b5/font.css');
+@import url('https://cdn.jsdelivr.net/gh/Rururuki/Custom_Fonts@main/font.css');
 /* apply font */
 h1 {
-	font-family: 'BMYeonSung', monospace;
+	font-family: 'determination', serif;
 	font-weight: normal;
 	font-style: normal;
 }
