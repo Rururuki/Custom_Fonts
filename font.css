@@ -4,7 +4,7 @@ h1 {
 /* define font-face */
 @font-face {
     font-family: 'Jellybean';
-    src: url('https://cdn.jsdelivr.net/gh/Rururuki/Custom_Fonts@main/fonts/Jellybean.ttf') format('opentype');
+    src: url('https://cdn.jsdelivr.net/gh/Rururuki/Custom_Fonts@main/fonts/Jellybean.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
