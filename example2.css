@@ -1,0 +1,8 @@
+/* call font-face */
+@import url('https://cdn.jsdelivr.net/gh/Rururuki/Custom_Fonts@main/font.css');
+/* apply font */
+h1 {
+	font-family: 'Jellybean', serif;
+	font-weight: normal;
+	font-style: normal;
+}
